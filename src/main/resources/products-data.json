@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"title": "Samsung Galaxy J1 (2016) Duos",
+		"price":  12500,
+		"currencyType": "LKR",
+		"productCategories": ["electronics", "mobile-phones", "samsung"]
+	},
+	{
+		"id": 2,
+		"title": "Samsung Galaxy Note 7 Duos 64GB",
+		"price":  128900,
+		"currencyType": "LKR",
+		"productCategories": ["electronics", "mobile-phones", "samsung"]
+	},
+	{
+		"id": 3,
+		"title": "Samsung Galaxy J7 Prime",
+		"price":  31200,
+		"currencyType": "LKR",
+		"productCategories": ["electronics", "mobile-phones", "samsung"]
+	},
+	{
+		"id": 4,
+		"title": "Apple iPhone 7 Plus 256GB",
+		"price":  145000,
+		"currencyType": "LKR",
+		"productCategories": ["electronics", "mobile-phones", "apple"]
+	},
+	{
+		"id": 5,
+		"title": "Apple iPhone 6s 32GB",
+		"price": 82490,
+		"currencyType": "LKR",
+		"productCategories": ["electronics", "mobile-phones", "apple"]
+	},
+	{
+		"id": 6,
+		"title": "Apple iPhone 5c 16GB",
+		"price": 47900,
+		"currencyType": "LKR",
+		"productCategories": ["electronics", "mobile-phones", "apple"]
+	},
+	{
+		"id": 7,
+		"title": "ASUS X556UA-DM809D (Intel Core i5 2.5GHz)",
+		"price": 88199,
+		"currencyType": "LKR",
+		"productCategories": ["electronics", "laptops", "asus"]
+	},
+	{
+		"id": 8,
+		"title": "Dell Inspiron 11-i3169 (core M3-6y30)",
+		"price": 69990,
+		"currencyType": "LKR",
+		"productCategories": ["electronics", "laptops", "dell"]
+	}
+]

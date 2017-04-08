@@ -1,0 +1,16 @@
+# Spring properties
+spring:
+  application:
+    name: product-search-demo
+
+# HTTP Server properties
+server:
+  port: @http.port@
+
+# Searchbox properties
+searchbox:
+  appname : product-search-demo
+  dataloader: 
+    clearAll: true
+#  page:
+#    length: 5   
